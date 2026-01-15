@@ -1,6 +1,6 @@
 body {
     background: linear-gradient(rgb(236, 186, 213), rgb(157, 235, 238));
-    font-family: sans-serif, Arial, Helvetica;
+    font-family: "sans-serif", Arial, Helvetica;
     text-align: center;
     min-width: 350px;
     margin: 16px auto;
