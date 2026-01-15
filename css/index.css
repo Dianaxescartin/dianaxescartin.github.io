@@ -1,6 +1,6 @@
 body {
     background: linear-gradient(rgb(236, 186, 213), rgb(157, 235, 238));
-    font-family: cursive;
+    font-family: sans-serif, Arial, Helvetica;
     text-align: center;
     min-width: 350px;
     margin: 16px auto;
@@ -8,10 +8,12 @@ body {
 
 h1, h2 {
     margin: 0;
+    font-family: cursive;
 }
 
 h3 {
     text-align: center;
+    font-family: cursive;
 }
 
 p {
@@ -38,8 +40,7 @@ img {
 
 @media (min-width: 768px) {
     body {
-        max-width: 1050px;
-        margin: 16px auto;
+        max-width: 1010px;
     }
     main {
         display: flex;
